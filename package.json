@@ -1,5 +1,5 @@
 {
-  "name": "autodep",
+  "name": "syntax-autodep",
   "version": "1.0.0",
   "bin": {
     "autodep": "./bin/autodep.js"
